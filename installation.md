@@ -31,7 +31,8 @@ sh install.sh
 
 ## Install remaining dependencies
 ```
-pip install -r docs/requirements.txt
+cd csm_root
+pip install -r requirements.txt
 ```
 
 
