@@ -18,7 +18,8 @@ python setup.py install
 
 ## Download & clone the repo
 ```
-git clone git@github.com:nileshkulkarni/csm.git csm_root
+git clone https://github.com/nileshkulkarni/csm
+"csm"-Hauptverzeichnis umbenennen in csm_root
 ```
 
 
